@@ -1,0 +1,31 @@
+body {
+	background-color: #012201;
+	color: #FFF;
+	height: 100vh;
+	padding: 2vmin;
+    overflow: hidden;
+}
+
+#points {
+	border-bottom: 3px solid #000600;
+	height: 5%;
+	margin-bottom: 1%;
+}
+
+#field {
+	border: 3px solid #000600;
+	height: 90vmin;
+	width: 90vmin;
+	padding: 0;
+}
+
+snake {
+
+}
+
+snake part {
+	background-color: #000600;
+	width: 3vmin;
+	height: 3vmin;
+	position: fixed;
+}
